@@ -206,3 +206,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 bash questionnaire.sh
 bash questionnaire.sh
 ./questionnaire.sh
+bash questionnaire.sh
+./questionnaire.sh
