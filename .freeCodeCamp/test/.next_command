@@ -221,3 +221,5 @@ touch countdown
 touch countdown.sh
 rm countdown
 chmod u+x countdown.sh
+./questionnaire.sh
+./countdown.sh
