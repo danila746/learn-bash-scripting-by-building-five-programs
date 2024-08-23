@@ -208,3 +208,5 @@ bash questionnaire.sh
 ./questionnaire.sh
 bash questionnaire.sh
 ./questionnaire.sh
+--help echo
+echo --help
