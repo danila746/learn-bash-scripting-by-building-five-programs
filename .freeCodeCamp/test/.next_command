@@ -219,3 +219,5 @@ __vsc_prompt_cmd_original
 ./questionnaire.sh
 touch countdown
 touch countdown.sh
+rm countdown
+chmod u+x countdown.sh
