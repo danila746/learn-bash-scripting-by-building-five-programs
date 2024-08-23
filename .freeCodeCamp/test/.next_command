@@ -211,3 +211,5 @@ bash questionnaire.sh
 --help echo
 echo --help
 man echo
+./ques
+./questionnaire.sh
