@@ -210,3 +210,4 @@ bash questionnaire.sh
 ./questionnaire.sh
 --help echo
 echo --help
+man echo
