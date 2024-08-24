@@ -368,3 +368,5 @@ help false
 help
 help expression
 help [[ expression ]]
+help !
+help test
