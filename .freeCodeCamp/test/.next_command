@@ -412,3 +412,5 @@ help
 help
 ls --color=auto /
 ls --color=auto /bin
+help sleep
+man sleep
