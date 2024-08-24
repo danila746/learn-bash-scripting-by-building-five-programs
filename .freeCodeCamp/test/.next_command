@@ -410,3 +410,4 @@ help
 ./countdown.sh 11
 ./countdown.sh 1
 help
+ls --color=auto /
