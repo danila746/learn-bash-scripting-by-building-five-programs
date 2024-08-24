@@ -360,3 +360,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdown.sh arg1
 ./countdown.sh arrae
 ./countdown.sh 4
+./countdown.sh 42
+./countdown.sh 5
