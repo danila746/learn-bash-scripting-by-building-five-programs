@@ -366,3 +366,5 @@ help -lt
 help if
 help false
 help
+help expression
+help [[ expression ]]
