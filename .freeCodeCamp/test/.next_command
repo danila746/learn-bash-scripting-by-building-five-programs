@@ -417,3 +417,5 @@ man sleep
 sleep 3
 ./countdown.sh 3
 ./countdown.sh 3
+help echo
+./countdown.sh 1
