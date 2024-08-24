@@ -15,7 +15,13 @@ then
     sleep 1
   done
   '
-I=$1
+I=$1 
+
+while  [[ $I -ge 0 ]] 
+do
+  echo $I 
+
+done
 
 
 
