@@ -407,3 +407,6 @@ help
 1
 ./countdown.sh 1
 ./countdown.sh 10
+./countdown.sh 11
+./countdown.sh 1
+help
