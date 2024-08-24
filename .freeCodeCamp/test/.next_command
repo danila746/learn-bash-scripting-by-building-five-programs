@@ -394,3 +394,5 @@ help test
 [[ -d countdown.sh ]]
 [[ -a bad_file.txt ]]
 [[ -x countdown.sh ]]
+[[ -e countdown.sh ]]
+help [[
