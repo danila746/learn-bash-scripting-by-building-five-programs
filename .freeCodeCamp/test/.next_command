@@ -396,3 +396,4 @@ help test
 [[ -x countdown.sh ]]
 [[ -e countdown.sh ]]
 help [[
+[[ -x countdown.sh && 5 -le 4 ]]
