@@ -388,3 +388,4 @@ bad_command
 bad_command
 ls --color=auto
 ls --color=auto -y
+help test
