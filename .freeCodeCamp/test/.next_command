@@ -544,3 +544,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./bingo.sh
 __vsc_prompt_cmd_original
 printenv
+echo LANG
+echo $LANG
