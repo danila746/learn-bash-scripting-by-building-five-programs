@@ -562,3 +562,4 @@ I++
 (( I++ ))
 (( I++ ))
 echo $I
+help let
