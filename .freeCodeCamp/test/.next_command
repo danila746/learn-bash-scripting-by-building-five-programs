@@ -569,3 +569,18 @@ $(( I +4 ))
 echo $(( I+4 ))
 echo 155
 echo $I
+(( I-1 ))
+echo $I
+(( I --1 ))
+(( I-- ))
+echo $I
+(( I++ ))
+echo $I
+help let
+J=0
+echo J
+J
+echo $J
+echo $J=$(( I-6 ))
+echo J=$(( I-6 ))
+J=$(( I-6 ))
