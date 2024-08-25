@@ -595,3 +595,7 @@ echo $(( $J*5+25 ))
 echo $J
 declare -p
 declare -p J
+declare -p I
+declare -p NAME
+declare -p USER
+declare -p RANDOM
