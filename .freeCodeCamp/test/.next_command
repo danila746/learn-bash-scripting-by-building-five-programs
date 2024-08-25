@@ -599,3 +599,6 @@ declare -p I
 declare -p NAME
 declare -p USER
 declare -p RANDOM
+echo RANDOM % 75
+echo $RANDOM % 75
+echo $(( $RANDOM % 75 ))
