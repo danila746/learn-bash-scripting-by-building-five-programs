@@ -586,3 +586,9 @@ echo J=$(( I-6 ))
 J=$(( I-6 ))
 echo $j
 echo $J
+__vsc_prompt_cmd_original
+echo $(( J*5+5 ))
+echo $J*5+5
+echo J*5+5
+echo $(( $J*5+5 ))
+echo $(( $J*5+25 ))
