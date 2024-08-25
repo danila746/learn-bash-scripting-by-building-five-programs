@@ -629,3 +629,6 @@ help if
 ./bingo.sh
 ./bingo.sh
 touch fortune.sh
+git status
+git commit -m "another bash project"
+git push origin
