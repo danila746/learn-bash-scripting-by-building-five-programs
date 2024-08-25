@@ -584,3 +584,5 @@ echo $J
 echo $J=$(( I-6 ))
 echo J=$(( I-6 ))
 J=$(( I-6 ))
+echo $j
+echo $J
