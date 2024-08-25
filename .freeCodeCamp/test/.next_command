@@ -549,3 +549,5 @@ echo $LANG
 echo $TERM_PROGRAM
 ls --color=auto -l printenv declare
 declare -p
+echo $random
+echo $RANDOM
