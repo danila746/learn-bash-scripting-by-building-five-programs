@@ -546,3 +546,6 @@ __vsc_prompt_cmd_original
 printenv
 echo LANG
 echo $LANG
+echo $TERM_PROGRAM
+ls --color=auto -l printenv declare
+declare -p
