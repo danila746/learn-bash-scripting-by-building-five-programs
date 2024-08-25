@@ -551,3 +551,6 @@ ls --color=auto -l printenv declare
 declare -p
 echo $random
 echo $RANDOM
+bash bingo.sh
+./bingo.sh
+./bingo.sh
