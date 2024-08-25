@@ -505,3 +505,4 @@ __vsc_prompt_cmd_original
 help if
 help test
 touch bingo.sh
+sudo chmod a+x bingo.sh
