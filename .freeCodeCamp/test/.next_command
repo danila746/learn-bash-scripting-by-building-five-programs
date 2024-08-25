@@ -506,3 +506,6 @@ help if
 help test
 touch bingo.sh
 sudo chmod a+x bingo.sh
+__vsc_prompt_cmd_original
+ls --color=auto bingo.sh
+ls --color=auto -l bingo.sh
