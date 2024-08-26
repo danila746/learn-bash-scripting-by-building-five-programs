@@ -872,3 +872,6 @@ clear
 __vsc_prompt_cmd_original
 ./fortune.sh
 help
+__vsc_prompt_cmd_original
+man function
+help function
