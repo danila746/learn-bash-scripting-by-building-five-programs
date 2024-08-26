@@ -839,3 +839,13 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./bingo.sh 112
 clear
 ./fortune.sh
+ls --color=auto -l fortune.sh
+declare
+declare -p
+declare -p OSTYPE
+declare -p I
+declare -p J
+declare -p USER
+printenv
+AAR=("a" "b" "c")
+ARR=("a" "b" "c")
