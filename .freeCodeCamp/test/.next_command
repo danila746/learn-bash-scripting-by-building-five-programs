@@ -838,3 +838,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./bingo.sh 11
 ./bingo.sh 112
 clear
+./fortune.sh
