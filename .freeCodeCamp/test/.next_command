@@ -868,3 +868,6 @@ clear
 ./fortune.sh
 ./fortune.sh
 ./fortune.sh
+./fortune.sh
+__vsc_prompt_cmd_original
+./fortune.sh
