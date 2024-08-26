@@ -8,3 +8,5 @@ RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it"
 N=$(( RANDOM % 6 ))
 
 echo ${RESPONSES[$N]}
+ GET_FORTUNE() {
+ }
