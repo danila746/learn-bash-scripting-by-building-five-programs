@@ -851,3 +851,14 @@ AAR=("a" "b" "c")
 ARR=("a" "b" "c")
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo $*
+echo $@
+ARR=("a" "b" "c")
+echo $ARR
+echo $ARR*
+echo $*ARR
+echo ${[@]}
+echo ${[*]}
+echo ${[$*]}
+echo $ARR{[*]}
+echo ${ARR[*]}
