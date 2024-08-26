@@ -866,3 +866,5 @@ declare -p
 declare -p ARR
 clear
 ./fortune.sh
+./fortune.sh
+./fortune.sh
