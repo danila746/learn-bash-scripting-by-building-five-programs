@@ -25,4 +25,6 @@ do
   GET_FORTUNE again
 done
 
+echo -e "\n"
+
 echo ${RESPONSES[$N]}
