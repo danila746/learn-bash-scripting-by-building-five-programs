@@ -1045,3 +1045,5 @@ echo $VAR
 ./fortune.sh 2
 ./fortune.sh 2
 ./fortune.sh
+./fortune.sh
+./fortune.sh 4
