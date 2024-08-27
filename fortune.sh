@@ -9,7 +9,12 @@ N=$(( RANDOM % 6 ))
 
 GET_FORTUNE() {
   echo Ask a yes or no question:
+   if [[ ! $1 ]]
+  then
+    echo ${RESPONSES[$N]}
+  fi
   read QUESTION
+ 
 }
 
 until [[ $QUESTION =~ \?$ ]]
@@ -17,4 +22,4 @@ do
   GET_FORTUNE
 done
 
-echo ${RESPONSES[$N]}
+
