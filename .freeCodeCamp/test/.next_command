@@ -1049,3 +1049,4 @@ echo $VAR
 ./fortune.sh 4
 ./fortune.sh
 ./fortune.sh
+./fortune.sh
